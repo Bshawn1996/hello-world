@@ -1,2 +1,2 @@
 # hello-world
-first profram on github
+first program on github
